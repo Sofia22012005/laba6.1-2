@@ -1,0 +1,4 @@
+﻿  UnitTest1.cpp
+C:\Users\Користувач\Desktop\лаба3ап\laba6.1(2)\laba6.1(2)\laba6.1(2).cpp(45): warning C4715: 'sum_of': not all control paths return a value
+C:\Users\Користувач\Desktop\лаба3ап\laba6.1(2)\laba6.1(2)\laba6.1(2).cpp(32): warning C4715: 'number_of': not all control paths return a value
+  UnitTest1.vcxproj -> C:\Users\Користувач\Desktop\лаба3ап\laba6.1(2)\x64\Debug\UnitTest1.dll
